@@ -28,5 +28,8 @@ int (*get_func(char x))(va_list args);
 char *str_concat(char *s1, char *s2);
 int _strlen_recursion(char *s);
 int _strcmp(char *s1, char *s2);
+char *rev_string(char *s);
+char *bin(unsigned int no);
+int imprime_b(va_list args);
 
 #endif /*MAIN_H*/

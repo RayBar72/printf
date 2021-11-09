@@ -16,6 +16,7 @@ int (*get_func(char x))(va_list)
 		{"%", imprime_porcent},
 		{"d", imprime_d},
 		{"i", imprime_i},
+		{"b", imprime_b},
 		{NULL, NULL}
 	};
 	int i = 0;
