@@ -32,7 +32,7 @@ int imprime_b(va_list args)
 		}
 		for (i--; i >= 0; i--)
 		{
-			_putchar(a[i] +'0');
+			_putchar(a[i] + '0');
 			cuenta++;
 		}
 	}
