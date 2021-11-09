@@ -1,7 +1,8 @@
-_printf is a project that mimics the real printf function. We made it for our first part of software engineer formation.
+**_printf** is a project that mimics the real printf function. We made it for our first part of software engineer formation.
+##
 The scope that we have given to the project includes only the conversion parameters and we have prepared a manual of our function. This project was carried out by Marcela Carrasco and Raymundo Barrera Flores.
+##
 General Requirements:
-General
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
